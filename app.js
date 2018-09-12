@@ -1,1 +1,1 @@
-confirm.log('JS');
+confirm.log('Hello JS');
